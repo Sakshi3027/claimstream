@@ -124,4 +124,5 @@ ClaimStream is the **data engineering layer** that feeds [HealthClaim Copilot](h
 
 ---
 
-Built by [Sakshi Chavan](https://github.com/Sakshi3027) · MS Data Science, UMass Dartmouth
+Built by [Sakshi Chavan](https://github.com/Sakshi3027) 
+AI Engineer | LangGraph • Databricks • RAG | MS Data Science | https://medium.com/@SakshiChavan
