@@ -1,12 +1,20 @@
+# Data files
+data/stream/
+data/delta/
+data/checkpoints/
+
+# Python
 __pycache__/
 *.pyc
 .DS_Store
 *.egg-info/
-dist/
-build/
-.env
-venv/
+
+# Java
 *.jar
 target/
 .idea/
 *.iml
+
+# Environment
+.env
+venv/
