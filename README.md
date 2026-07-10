@@ -14,7 +14,7 @@ ClaimStream is the data engineering layer that feeds an AI system like HealthCla
 ---
 
 ## Architecture
-
+```
 Claims Producer (Python)
 ↓
 JSON Stream Files
@@ -36,7 +36,7 @@ JSON Stream Files
 ↓
 Analytics Dashboard
 (Matplotlib)
-
+```
 ---
 
 ## Gold Tables
